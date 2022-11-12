@@ -14,8 +14,7 @@ public class HelloWorld {
        
         String cipherText = "在此输入密文，多条用空格分割";
         
-        String c
-        //key = "awdtif20190619ti"; //xuanfen KEY
+        String key = "awdtif20190619ti"; //xuanfen KEY
         //path/050331011208
 	
         String[] strArray=cipherText.split(" ");
