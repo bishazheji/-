@@ -17,6 +17,14 @@ public class HelloWorld {
         String key = "awdtif20190619ti"; //xuanfen KEY
         //path/050331011208
 	
+	// String key = "ks9KUrbWJj46AftX"; //heidong\leiting\mifeng KEY
+        //key = "awdtif20190619ti"; //xuanfen KEY
+        
+	//https://raw.githubusercontent.com/bulianglin/demo/main/01  //原
+	
+	
+	
+	
         String[] strArray=cipherText.split(" ");
         for (String text : strArray) {
           System.out.println(decrypt(text,key));
