@@ -20,7 +20,7 @@ public class HelloWorld {
 	// String key = "ks9KUrbWJj46AftX"; //heidong\leiting\mifeng KEY
         //key = "awdtif20190619ti"; //xuanfen KEY
         
-	//https://raw.githubusercontent.com/bulianglin/demo/main/01  //原
+	//https://raw.githubusercontent.com/bulianglin/demo/main/01  //yuan di zhi
 	
         String[] strArray=cipherText.split(" ");
         for (String text : strArray) {
